@@ -26,7 +26,7 @@ body {
   /* to curve the radius of main container and children should not go outside the container */
   overflow: hidden;
   position: relative;
-   box-shadow: 15px 15px 40px rgba(0,0,0,0.12);
+   /* box-shadow: 15px 15px 40px rgba(0,0,0,0.12); */
 }
 .left-container {
   background-color: #fcc60c;
